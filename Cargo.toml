@@ -1,0 +1,16 @@
+[package]
+name = "tiny-bit-flags"
+version = "0.1.0"
+edition = "2024"
+authors = ["Wu Bingzheng <wubingzheng@gmail.com>"]
+description = "Generate bit-flags struct and methods."
+license = "MIT"
+repository = "https://github.com/WuBingzheng/tiny-bit-flags"
+documentation = "https://docs.rs/tiny-bit-flags"
+keywords = ["bit-flags", "generator"]
+categories = ["data-structures"]
+
+[dependencies]
+
+[dev-dependencies]
+paste = "1.0"
